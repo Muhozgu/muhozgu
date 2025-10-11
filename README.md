@@ -1,7 +1,7 @@
 Hi 👋 My name is Guy Brillant Muhoza
 =====================================
 
-AI/ML Engineer and Data Scientist Enthousiast
+AI/ML Engineering and Data Science Enthousiast
 ---------------------------------
 
 👋 Hey there! I'm a Computer Science student passionate about uncovering insights from data and building intelligent systems that make a difference. As an aspiring AI/ML Engineer, Data Engineer, and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
