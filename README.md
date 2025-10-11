@@ -4,7 +4,7 @@ Hi 👋 My name is Guy Brillant Muhoza
 Tech, AI/ML Engineering and Data Science Enthusiast
 ---------------------------------
 
-👋 Hey there! I'm a Computer Science Enthousiast passionate about uncovering insights from data and building intelligent systems that make a difference. As an aspiring AI/ML Engineer, Data Engineer, and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
+👋 Hey there! I'm a Computer Science Enthusiast passionate about uncovering insights from data and building intelligent systems that make a difference. As an aspiring AI/ML Engineer, Data Engineer, and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
 
 🚀 Right now, I’m deepening my expertise in Python, Machine Learning, and Data Engineering, working with tools like Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch. I’m also expanding my knowledge in SQL, data pipelines, and cloud platforms to bridge the gap between analytics and scalable systems.
 
