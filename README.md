@@ -6,14 +6,6 @@ Tech, AI/ML Engineering and Data Science Enthusiast
 
 👋 Hey there! I'm a Computer Science Enthusiast passionate about uncovering insights from data and building intelligent systems that make a difference. As an aspiring AI/ML Engineer, Data Engineer, and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
 
-🚀 Right now, I’m deepening my expertise in Python, Machine Learning, and Data Engineering, working with tools like Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch. I’m also expanding my knowledge in SQL, data pipelines, and cloud platforms to bridge the gap between analytics and scalable systems.
-
-📂 In my repositories, you’ll find projects focused on data analysis, machine learning models, and end-to-end data workflows — each one representing a new challenge, experiment, or skill I’ve picked up along the way.
-
-💡 I’m driven by curiosity and a desire to create meaningful, data-driven solutions. I enjoy collaborating, learning from others, and contributing to open-source projects that push the boundaries of what’s possible with AI and data.
-
-🌱 Always learning, always growing. I’m excited to keep exploring the world of AI and data science while building a career centered on innovation, collaboration, and impact.
-
 <b>
   
 * 🌍  I'm based in Warsaw-Masovia, Poland,
