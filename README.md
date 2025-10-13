@@ -8,7 +8,7 @@ Tech, AI/ML Engineering and Data Science Enthusiast
 
 <b>
   
-* 🌍  I'm based in Warsaw-Masovia, Poland,
+* 🌍  I'm based in Poland,
 * ✉️  You can contact me at [muhoza.g@outlook.com](mailto:muhoza.g@outlook.com),
 * 🧠  I'm learning Computer Science,
 * 🤝  I'm open to collaborating on projects that challenge me to learn and grow.
