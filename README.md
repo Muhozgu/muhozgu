@@ -13,9 +13,6 @@ Tech, AI/ML Engineering and Data Science Enthusiast
 * 🧠  I'm learning Computer Science,
 * 🤝  I'm open to collaborating on projects that challenge me to learn and grow.
 
-<a href="https://www.github.com/muhozgu" target="_blank" rel="noreferrer"><img alt="GitHub followers" src="https://img.shields.io/github/followers/:user"></a>
-<a href="https://www.x.com/itworld49431" target="_blank" rel="noreferrer"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url"></a>
-
 ### Skills
 
 
