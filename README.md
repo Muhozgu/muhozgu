@@ -1,18 +1,11 @@
 Hi 👋
 =====================================
 
-AI/ML Engineering and Data Science Enthusiast
----------------------------------
-
-👋 Hey there! I'm a Computer Science Enthusiast passionate about uncovering insights from data and building intelligent systems that make a difference. As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
+As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
 
 <b>
   
-* 🌍  I'm based in Poland,
-* ✉️  You can contact me at [muhoza.g@icloud.com](mailto:muhoza.g@icloud.com),
-* 🤝  I'm open to collaborating on projects that challenge me to learn and grow.
-
-![GitHub followers](https://img.shields.io/github/followers/Muhozgu?label=Followers&style=for-the-badge)
+* You can contact me at [muhoza.g@icloud.com](mailto:muhoza.g@icloud.com),
 
 ### Skills
 
