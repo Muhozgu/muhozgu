@@ -1,4 +1,4 @@
-Hi 👋 My name is Guy Brillant Muhoza
+Hi 👋
 =====================================
 
 AI/ML Engineering and Data Science Enthusiast
