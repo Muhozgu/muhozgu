@@ -96,7 +96,7 @@ const translations: Record<Language, Translations> = {
     home: {
       greeting: 'Hi, I\'m',
       name: 'Guy Muhoza',
-      title: 'AI/ML Engineer and Data Scientist',
+      title: 'AI/ML Engineering and Data Science Enthusiast',
       subtitle: 'I create beautiful, functional, and user-centered digital experiences. Passionate about clean code, innovative design, and solving complex problems.',
       cta: 'Download Resume'
     },

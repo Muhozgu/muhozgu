@@ -1,19 +1,19 @@
 import { motion } from 'framer-motion';
 import { useEffect } from 'react';
 import { LanguageProvider, useLanguage } from './components/LanguageContext';
-// import { Navigation } from './components/Navigation';
-// import { AlternatingTimeline } from './components/AlternatingTimeline';
-// import { SkillsGrid } from './components/SkillsGrid';
-// import { ContactSection } from './components/ContactSection';
-import { Button } from './components/ui/button';
+import { Navigation } from './components/Navigation';
+import SkillsGrid from './components/SkillsGrid';
+import ContactSection from './components/ContactSection';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './components/ui/card';
 import { Badge } from './components/ui/badge';
+import { Button } from './components/ui/button';
 import profileImage from './assets/4929c99f37a6e26e9b5358f209011ac260185e5b.png'; // Changed from figma:asset to local path
-// import projectsImage from './assets/projects.png';
+
+
 import {
   Mail,
-  Phone,
-  MapPin,
+  // Phone,
+  // MapPin,
   Linkedin,
   Github,
   ExternalLink,
@@ -126,7 +126,7 @@ function PortfolioContent() {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* <Navigation /> */}
+      <Navigation />
       
       {/* Hero Section */}
       <section id="home" className="min-h-screen flex items-center justify-center pt-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
@@ -203,7 +203,7 @@ function PortfolioContent() {
                     size="lg" 
                     className="group"
                   >
-                    <Download className="mr-2 h-4 w-4 group-hover:animate-bounce" />
+                    <Download className="mr-2 h-4 w-4 group-hover:animate-bounc" />
                     {t.home.cta}
                   </Button>
                 </motion.div>
@@ -230,17 +230,17 @@ function PortfolioContent() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.2, duration: 0.8 }}
               >
-                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="https://github.com/Muhozgu" target="_blank" rel="noopener noreferrer">
                   <Button variant="ghost" size="sm" className="rounded-full p-3">
                     <Github className="w-5 h-5" />
                   </Button>
                 </motion.a>
-                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="https://linkedin.com/in/muhozgu" target="_blank" rel="noopener noreferrer">
                   <Button variant="ghost" size="sm" className="rounded-full p-3">
                     <Linkedin className="w-5 h-5" />
                   </Button>
                 </motion.a>
-                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="mailto:guy.muhoza@email.com">
+                <motion.a whileHover={{ scale: 1.1, y: -2 }} whileTap={{ scale: 0.9 }} href="mailto:muhoza.g@outlook.com">
                   <Button variant="ghost" size="sm" className="rounded-full p-3">
                     <Mail className="w-5 h-5" />
                   </Button>
@@ -339,21 +339,6 @@ function PortfolioContent() {
                 <p>{t.about.intro}</p>
                 <p>{t.about.specialization}</p>
                 <p>{t.about.mission}</p>
-              </div>
-              
-              <div className="flex flex-wrap gap-4 mt-6">
-                <div className="flex items-center gap-2 text-muted-foreground">
-                  <Mail className="w-4 h-4" />
-                  <span>guy.muhoza@email.com</span>
-                </div>
-                <div className="flex items-center gap-2 text-muted-foreground">
-                  <Phone className="w-4 h-4" />
-                  <span>+1 (555) 123-4567</span>
-                </div>
-                <div className="flex items-center gap-2 text-muted-foreground">
-                  <MapPin className="w-4 h-4" />
-                  <span>San Francisco, CA</span>
-                </div>
               </div>
             </motion.div>
             
@@ -497,7 +482,7 @@ function PortfolioContent() {
             </h2>
           </motion.div>
           
-          {/* <SkillsGrid /> */}
+          <SkillsGrid />
         </div>
       </section>
 
@@ -516,7 +501,7 @@ function PortfolioContent() {
               {t.projects.title}
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              A showcase of AI/ML projects demonstrating expertise in machine learning, data science, and software engineering
+              A showcase of  projects demonstrating expertise in machine learning, data science, and software engineering
             </p>
           </motion.div>
 
@@ -824,7 +809,7 @@ function PortfolioContent() {
       </section>
 
       {/* Contact Section */}
-      {/* <ContactSection /> */}
+      <ContactSection />
 
       {/* Footer */}
       <footer className="py-16 px-4 sm:px-6 lg:px-8 border-t border-border bg-background">
@@ -858,7 +843,7 @@ function PortfolioContent() {
               <motion.a 
                 whileHover={{ scale: 1.1, y: -2 }} 
                 whileTap={{ scale: 0.9 }}
-                href="mailto:guy.muhoza@email.com"
+                href="mailto:muhoza.g@outlook.com"
               >
                 <Button variant="ghost" size="sm" className="rounded-full p-3 hover:bg-primary/10">
                   <Mail className="w-5 h-5" />
@@ -867,7 +852,7 @@ function PortfolioContent() {
               <motion.a 
                 whileHover={{ scale: 1.1, y: -2 }} 
                 whileTap={{ scale: 0.9 }}
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/muhozgu/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -878,7 +863,7 @@ function PortfolioContent() {
               <motion.a 
                 whileHover={{ scale: 1.1, y: -2 }} 
                 whileTap={{ scale: 0.9 }}
-                href="https://github.com"
+                href="https://github.com/Muhozgu"
                 target="_blank"
                 rel="noopener noreferrer"
               >

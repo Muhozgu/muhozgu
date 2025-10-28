@@ -1,5 +1,6 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Calendar, MapPin } from 'lucide-react';
+import type { Variants } from "framer-motion"
 
 interface TimelineItem {
   title: string;
@@ -24,7 +25,7 @@ export function Timeline({ items }: TimelineProps) {
     }
   };
 
-  const itemVariants = {
+  const itemVariants: Variants = {
     hidden: { 
       opacity: 0, 
       x: -50,
@@ -41,7 +42,7 @@ export function Timeline({ items }: TimelineProps) {
     }
   };
 
-  const lineVariants = {
+  const lineVariants: Variants = {
     hidden: { height: 0 },
     visible: {
       height: "100%",
@@ -53,7 +54,7 @@ export function Timeline({ items }: TimelineProps) {
     }
   };
 
-  const dotVariants = {
+  const dotVariants: Variants = {
     hidden: { scale: 0, opacity: 0 },
     visible: {
       scale: 1,
@@ -79,6 +80,8 @@ export function Timeline({ items }: TimelineProps) {
         <motion.div 
           className="w-full bg-primary origin-top"
           variants={lineVariants}
+          initial="hidden"
+          animate="visible"
         />
       </div>
 
@@ -93,6 +96,8 @@ export function Timeline({ items }: TimelineProps) {
             <motion.div 
               className="relative z-10 flex-shrink-0"
               variants={dotVariants}
+              initial="hidden"
+              animate="visible"
             >
               <div className="w-4 h-4 bg-primary rounded-full border-4 border-background shadow-lg">
                 <motion.div
