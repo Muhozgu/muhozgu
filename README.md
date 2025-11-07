@@ -18,7 +18,7 @@ As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, alg
 <img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="Matplotlib" alt="SciPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Tensorflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="45" height="45" alt="Keras"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="36" height="36" alt="Keras"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="Pytorch"/>
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/6fcb1f1e-5b99-4b84-bff6-20e72b5bc483" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="36" height="36" alt="Scala"/>
@@ -41,8 +41,8 @@ As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, alg
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="Vscode"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
-<img width="45" height="45" alt="SQL" src="https://github.com/user-attachments/assets/bb290c8a-1ee9-46f1-b607-3f50fe2a46eb" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="MS SQL Server"/>
+          
           
 
 ### Socials 
