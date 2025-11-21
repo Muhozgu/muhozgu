@@ -48,7 +48,7 @@ As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, alg
           
 
 ### Socials 
-<a href="https://www.linkedin.com/in/muhoza-g-9ba735271" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
+<a href="https://www.linkedin.com/in/muhozgu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
 ### My GitHub Stats
 
 <a href="http://www.github.com/muhozgu"><img src="https://github-readme-stats.vercel.app/api?username=muhozgu&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=f97316&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="muhozgu's GitHub stats" /></a>
