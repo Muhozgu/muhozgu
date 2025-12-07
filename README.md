@@ -58,4 +58,4 @@ As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, alg
 
 <a href="http://www.github.com/Muhozgu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhozgu&stroke=f97316&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=f97316&currStreakLabel=6366f1&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/muhozgu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhozgu&langs_count=10&title_color=6366f1&text_color=f97316&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://github.com/Muhozgu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhozgu&langs_count=10&title_color=6366f1&text_color=f97316&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
