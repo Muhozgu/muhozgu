@@ -1,8 +1,6 @@
 Hi 👋
 =====================================
 
-As an aspiring AI/ML Engineer and Data Scientist, I love exploring how data, algorithms, and cloud technologies come together to solve real-world problems.
-
 <b>
   
 * You can contact me at [muhoza.g@outlook.com](mailto:muhoza.g@outlook.com),
