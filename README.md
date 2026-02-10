@@ -1,4 +1,4 @@
-Bonjour👋, I m Guy Muhoza
+Hi👋, I m Guy Muhoza
 =====================================
 
 ### Skills
