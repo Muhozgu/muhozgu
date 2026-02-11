@@ -1,7 +1,7 @@
 Hi👋, I m Guy Muhoza
 =====================================
 
-### Skills
+### My stack
 
 
 <p align="left">
