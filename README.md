@@ -1,4 +1,4 @@
-Hi👋, I m Guy Muhoza
+Hi👋, I m Guy-Brillant Muhoza
 =====================================
 
 ### My stack
