@@ -1,5 +1,5 @@
 #### < HELLO,
-### IT IS 
+### IT'S 
 # GUY-BRILLANT MUHOZA >
 
 ### My stack
