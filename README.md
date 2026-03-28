@@ -16,7 +16,7 @@
           
 ### Socials 
 
-<a href="https://www.discord.com/users/14673026552------"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/de433649-7e57-4d6a-8172-1ab1968b15ca" />
+<a href="https://www.discord.com/users/1467302655213961226"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/de433649-7e57-4d6a-8172-1ab1968b15ca" />
 </a>
 
 ### Stats
