@@ -18,7 +18,8 @@
 
 <a href="https://www.discord.com/users/1467302655213961226"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/de433649-7e57-4d6a-8172-1ab1968b15ca" />
 </a>
-
+<a href="https://exercism.org/profiles/Muhozgu"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/79ad1d3a-bd3b-4532-bd27-0aa957cfef86" />
+</a>
 ### Stats
 <a href="http://www.github.com/muhozgu"><img src="https://github-readme-stats.vercel.app/api?username=muhozgu&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=f97316&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
 <a href="https://www.github.com/Muhozgu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhozgu&stroke=f97316&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=f97316&currStreakLabel=6366f1&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
