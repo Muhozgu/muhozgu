@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" />
 
-### Socials & eCommunities
+### Socials & iCommunities
 
 <a href="https://www.discord.com/users/1467302655213961226"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/de433649-7e57-4d6a-8172-1ab1968b15ca" />
 </a>
