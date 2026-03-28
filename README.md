@@ -15,6 +15,8 @@
 </a>
 <a href="https://exercism.org/profiles/Muhozgu"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/79ad1d3a-bd3b-4532-bd27-0aa957cfef86" />
 </a>
+<a href="https://leetcode.com/u/muhozgu_aehit/"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9869838d-c654-4b03-b86c-03bb45cb3a67" />
+</a>
 ---
 
 ### Dashboards
