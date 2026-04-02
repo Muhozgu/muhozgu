@@ -17,6 +17,9 @@
 </a>
 <a href="https://leetcode.com/u/muhozgu_aehit/"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9869838d-c654-4b03-b86c-03bb45cb3a67" />
 </a>
+<a href="https://taskmanagemen-qc27955.slack.com/team/U09SYPY82DV">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+</a>
 ---
 
 ### Dashboards
