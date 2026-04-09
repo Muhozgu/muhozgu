@@ -10,10 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" />
 
 ### Socials & iCommunities
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhozgu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/muhozgu?trk=profile-badge">Guy Brillant M.</a></div>
-              
-
+           
 <a href="https://www.discord.com/users/1467302655213961226"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/de433649-7e57-4d6a-8172-1ab1968b15ca" />
 </a>
 <a href="https://exercism.org/profiles/Muhozgu"><img width="32" height="32" alt="exercism-svgrepo-com" src="https://github.com/user-attachments/assets/ee8852c1-69c8-4f68-9093-81d4f4e41e5e" />
