@@ -2,7 +2,7 @@
 ### IT'S 
 # GUY-BRILLANT MUHOZA >
 
-### My tech stack
+### Home Language
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
